@@ -1,5 +1,6 @@
 let restaurant;
 var map;
+const gKey = AIzaSyBkYa799_m33HDM4UFuMdg7tajC4BMmFBg;
 
 /**
  * Initialize Google map, called from HTML.
